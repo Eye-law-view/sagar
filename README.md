@@ -1,17 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21084
-Fork on GitHub
-6542
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Sagar Parajuli</h1>
